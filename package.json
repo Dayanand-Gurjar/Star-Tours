@@ -1,0 +1,14 @@
+{
+  "name": "star-tours",
+  "version": "1.0.0",
+  "description": "this is a full-fledged tour website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dayanand Gurjar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
