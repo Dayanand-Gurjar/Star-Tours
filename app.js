@@ -32,9 +32,8 @@ app.set('views', path.join(__dirname, 'views'));
 // Implement CORS
 app.use(cors());
 // Access-Control-Allow-Origin *
-// api.natours.com, front-end natours.com
 // app.use(cors({
-//   origin: 'https://www.natours.com'
+//   origin: 'https://www.startours.onrender.com'
 // }))
 
 app.options('*', cors());
